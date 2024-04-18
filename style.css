@@ -33,6 +33,7 @@ body{
   margin-top: 1.5rem;
   padding: 1.75rem;
   font-size: 13px;
+  box-shadow: 0px 10px 30px -20px var(--clr-very-dark-grayish-blue);
 }
 
 .profile-info{
